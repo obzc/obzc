@@ -6,9 +6,9 @@ Frontend Developer, Gedik
 
 | Project | Description | Role     |
 | :---  |    :----   | :--- |
-| [wmtools.me](wmtools.me) | `nuxtjs, vuejs, nodejs, appwrite` | Founder & Developer |
-| [cryptodore.com](cryptodore.com) | `nuxtjs, vuejs, nodejs, redis` | Founder & Developer |
-| [hayvanlar.net](hayvanlar.net)	|`forum`|Administrator|
-| [devrekarti.com](devrekarti.com) | `blog, wp` | Administrator |
-| [kelimesayaci.com.tr](kelimesayaci.com.tr) | `html, css, js` | Founder & Developer |
-| [fowtools.com](fowtools.com) | `laravel, vuejs` | Founder & Developer |
+| [wmtools.me](https://wmtools.me) | `nuxtjs, vuejs, nodejs, appwrite` | Founder & Developer |
+| [cryptodore.com](https://cryptodore.com) | `nuxtjs, vuejs, nodejs, redis` | Founder & Developer |
+| [hayvanlar.net](https://hayvanlar.net)	|`forum`|Administrator|
+| [devrekarti.com](https://devrekarti.com) | `blog, wp` | Administrator |
+| [kelimesayaci.com.tr](https://kelimesayaci.com.tr) | `html, css, js` | Founder & Developer |
+| [fowtools.com](https://fowtools.com) | `laravel, vuejs` | Founder & Developer |
